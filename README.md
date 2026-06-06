@@ -132,7 +132,22 @@ AI-Powered-HR-Recruitment-Automation/
 ├── downloaded_resumes/        # Downloaded PDF/DOCX files
 └── README.md
 ```
+## 📸 Screenshots
 
+### Excel Output
+![Excel](images/excel_output.png)
+
+### n8n Workflow
+![n8n](images/n8n_workflow.jpg)
+
+### Email Sent
+![Email](images/email_sent.jpg)
+
+### Email Inbox
+![Email](images/email_inbox.jpg)
+
+### Pipeline Output
+![Pipeline](images/pipeline_output.jpg)
 ---
 
 ## 🛠️ Built With
