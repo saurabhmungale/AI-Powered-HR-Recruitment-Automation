@@ -135,19 +135,19 @@ AI-Powered-HR-Recruitment-Automation/
 ## 📸 Screenshots
 
 ### Excel Output
-![Excel](images/excel_output.png)
+![Excel](https://raw.githubusercontent.com/saurabhmungale/AI-Powered-HR-Recruitment-Automation/main/images/excel_output.png)
 
 ### n8n Workflow
-![n8n](images/n8n_workflow.jpg)
+![n8n](https://raw.githubusercontent.com/saurabhmungale/AI-Powered-HR-Recruitment-Automation/main/images/n8n_workflow.jpg)
 
 ### Email Sent
-![Email](images/email_sent.jpg)
+![Email](https://raw.githubusercontent.com/saurabhmungale/AI-Powered-HR-Recruitment-Automation/main/images/email_sent.jpg)
 
 ### Email Inbox
-![Email](images/email_inbox.jpg)
+![Email Inbox](https://raw.githubusercontent.com/saurabhmungale/AI-Powered-HR-Recruitment-Automation/main/images/email_inbox.jpg)
 
 ### Pipeline Output
-![Pipeline](images/pipeline_output.jpg)
+![Pipeline](https://raw.githubusercontent.com/saurabhmungale/AI-Powered-HR-Recruitment-Automation/main/images/pipeline_output.jpg)
 ---
 
 ## 🛠️ Built With
